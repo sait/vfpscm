@@ -1,0 +1,1 @@
+build exe prod/vfpscm.exe from vfpscm
